@@ -1,8 +1,8 @@
-Gabriel Santos, Cursando o Sétimo semestre de Sistemas de Informação
+Gabriel Santos, Formado em Sistemas de Informação
 
-Tenho interesse de ingressar no área de programção Web.
+Tenho interesse de ingressar no área de programação Web.
 
-Atualmente estou estudando NodeJs e RecatJS
+Atualmente estou estudando NodeJs e ReactJS
 
 
 <!---
